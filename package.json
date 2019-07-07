@@ -1,0 +1,31 @@
+{
+  "name": "@ordishs/gettx",
+  "version": "0.1.0",
+  "description": "Basic utility to get a BSV transaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "meta-writer": "./index.js"
+  },
+  "keywords": [],
+  "author": "Simon Ordish <simon.ordish@masagi.co.uk>",
+  "license": "Open BSV",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ordishs/gettx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ordishs/gettx/issues"
+  },
+  "homepage": "https://github.com/ordishs/gettx#readme"
+}
