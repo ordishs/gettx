@@ -15,6 +15,8 @@ Basic utility to get a BSV transaction.
 
 ## Usage
 
-`gettx <transaction hex>`
-`gettx --test <transaction hex>`
-`gettx --stn <transaction hex>`
+```gettx <transaction hex>```
+
+```gettx --test <transaction hex>```
+
+```gettx --stn <transaction hex>```
